@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<setupInfos>
+<serverInfo>
+    <title>BI BEAM CAMERA SYSTEM</title>
+    <serverName></serverName>
+</serverInfo>
+<camera>
+    <port>1</port>
+    <fesaName>TT43.BTV.430042.DigiCam</fesaName>
+    <camName>BTV 430042</camName>
+</camera>
+<camera>
+    <port>2</port>
+    <fesaName>TT43.BTV.430106.DigiCam</fesaName>
+    <camName>BTV 430106</camName>
+</camera>
+<camera>
+    <port>3</port>
+    <fesaName>TT41.BTV.412350.DigiCam</fesaName>
+    <camName>BTV 412350</camName>
+</camera>
+<camera>
+    <port>4</port>
+    <fesaName>TT41.BTV.412353.DigiCam</fesaName>
+    <camName>BTV 412353</camName>
+</camera>
+<camera>
+    <port>5</port>
+    <fesaName>TT41.BTV.412354.DigiCam</fesaName>
+    <camName>BTV 412354</camName>
+</camera>
+<camera>
+    <port>6</port>
+    <fesaName>TT41.BTV.412354.EXPVOL1.DigiCam</fesaName>
+    <camName>BTV EXPVOL1</camName>
+</camera>
+<camera>
+    <port>7</port>
+    <fesaName>TT41.BTV.412426.DigiCam</fesaName>
+    <camName>BTV 412426</camName>
+</camera>
+<camera>
+    <port>8</port>
+    <fesaName>TT41.BTV.412442.DigiCam</fesaName>
+    <camName>BTV 412442</camName>
+</camera>
+<camera>
+    <port>9</port>
+    <fesaName>TT41.BTV.412426.CORE.DigiCam</fesaName>
+    <camName>CORE 426</camName>
+</camera>
+<camera>
+    <port>10</port>
+    <fesaName>TT41.BTV.412426.HALO.DigiCam</fesaName>
+    <camName>HALO 426</camName>
+</camera>
+<camera>
+    <port>11</port>
+    <fesaName>TT41.BTV.412442.HALO.DigiCam</fesaName>
+    <camName>HALO442</camName>
+</camera>
+<camera>
+    <port>12</port>
+    <fesaName>TSG41.BTVSTREAK-REF.DigiCam</fesaName>
+    <camName>BTVSTREAK-REF</camName>
+</camera>
+<camera>
+    <port>13</port>
+    <fesaName>TSG41.MPPSTREAK-REF.DigiCam</fesaName>
+    <camName>MPPSTREAK-REF</camName>
+</camera>
+<camera>
+    <port>14</port>
+    <fesaName>TCC4.SPECTRO1.DigiCam</fesaName>
+    <camName>SPECTRO1</camName>
+</camera>
+<camera>
+    <port>15</port>
+    <fesaName>TCC4.SPECTRO2.DigiCam</fesaName>
+    <camName>SPECTRO2</camName>
+</camera>
+<camera>
+    <port>16</port>
+    <fesaName>TCC4.SPECTRO3.DigiCam</fesaName>
+    <camName>SPECTRO3</camName>
+</camera>
+<camera>
+    <port>17</port>
+    <fesaName>TCC4.SPECTRO4.DigiCam</fesaName>
+    <camName>SPECTRO4</camName>
+</camera>
+<camera>
+    <port>18</port>
+    <fesaName>TCC4.DMD1.DigiCam</fesaName>
+    <camName>DMD1</camName>
+</camera>
+<camera>
+    <port>19</port>
+    <fesaName>TCC4.DMD2.DigiCam</fesaName>
+    <camName>DMD2</camName>
+</camera>
+<camera>
+    <port>20</port>
+    <fesaName>TT41.VLC3.DigiCam</fesaName>
+    <camName>VLC3</camName>
+</camera>
+<camera>
+    <port>21</port>
+    <fesaName>TT41.VLC4.DigiCam</fesaName>
+    <camName>VLC4</camName>
+</camera>
+<camera>
+    <port>22</port>
+    <fesaName>TT41.VLC5.DigiCam</fesaName>
+    <camName>VLC5</camName>
+</camera>
+<camera>
+    <port>23</port>
+    <fesaName>TSG40.IR_LASER.DigiCam</fesaName>
+    <camName>IR LASER</camName>
+</camera>
+<camera>
+    <port>24</port>
+    <fesaName>TCV4.UV_CATHODE.DigiCam</fesaName>
+    <camName>UV CATHODE</camName>
+</camera>
+</setupInfos>

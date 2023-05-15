@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<setupInfos>
+<serverInfo>
+    <title>BI BEAM CAMERA SYSTEM</title>
+    <serverName>test</serverName>
+</serverInfo>
+<camera>
+    <port>1</port>
+    <fesaName>TT43.BTV.430042.DigiCam</fesaName>
+    <camName>BTV 430042</camName>
+</camera>
+<camera>
+    <port>2</port>
+    <fesaName>TT41.BTV.412350.DigiCam</fesaName>
+    <camName>BTV 350</camName>
+</camera>
+</setupInfos>

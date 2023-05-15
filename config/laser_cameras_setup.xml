@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<setupInfos>
+<serverInfo>
+    <title>BI LASER CAMERA SYSTEM</title>
+    <serverName>cs-ccr-awakecam1</serverName>
+</serverInfo>
+<camera>
+    <port>1</port>
+    <fesaName>TT41.VLC1.DigiCam</fesaName>
+    <camName>VLC1</camName>
+</camera>
+<camera>
+    <port>2</port>
+    <fesaName>TT41.VLC2.DigiCam</fesaName>
+    <camName>VLC2</camName>
+</camera>
+<camera>
+    <port>3</port>
+    <fesaName>TT41.VLC3.DigiCam</fesaName>
+    <camName>VLC3</camName>
+</camera>
+<camera>
+    <port>4</port>
+    <fesaName>TT41.VLC4.DigiCam</fesaName>
+    <camName>VLC4</camName>
+</camera>
+<camera>
+    <port>5</port>
+    <fesaName>TT41.VLC5.DigiCam</fesaName>
+    <camName>VLC5</camName>
+</camera>
+<camera>
+    <port>6</port>
+    <fesaName>TSG40.UV_LASER.DigiCam</fesaName>
+    <camName>UV LASER</camName>
+</camera>
+<camera>
+    <port>7</port>
+    <fesaName>TSG40.IR_LASER.DigiCam</fesaName>
+    <camName>IR LASER</camName>
+</camera>
+<camera>
+    <port>8</port>
+    <fesaName>TCV4.UV_CATHODE.DigiCam</fesaName>
+    <camName>UV CATHODE</camName>
+</camera>
+</setupInfos>

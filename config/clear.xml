@@ -1,0 +1,107 @@
+<?xml version="1.0"?>
+<setupInfos>
+<serverInfo>
+    <title>BI CAMERA SYSTEM</title>
+    <serverName>cfv-2010-btvclex1</serverName>
+</serverInfo>
+<camera>
+    <port>1</port>
+    <fesaName>CA.BTV0125.DigiCam</fesaName>
+    <camName>BTV0125</camName>
+</camera>
+<camera>
+    <port>2</port>
+    <fesaName>CA.BTV0215.DigiCam</fesaName>
+    <camName>BTV0215</camName>
+</camera>
+<camera>
+    <port>3</port>
+    <fesaName>CA.BTV0390.DigiCam</fesaName>
+    <camName>BTV0390</camName>
+</camera>
+<camera>
+    <port>4</port>
+    <fesaName>CAS.BTV0420.DigiCam</fesaName>
+    <camName>BTV0420</camName>
+</camera>
+<camera>
+    <port>5</port>
+    <fesaName>CAS.BTV0440.DigiCam</fesaName>
+    <camName>BTV0440</camName>
+</camera>
+<camera>
+    <port>6</port>
+    <fesaName>CA.BTV0620.DigiCam</fesaName>
+    <camName>BTV0620</camName>
+</camera>
+<camera>
+    <port>7</port>
+    <fesaName>CA.BTV0730.DigiCam</fesaName>
+    <camName>BTV0730</camName>
+</camera>
+<camera>
+    <port>8</port>
+    <fesaName>CA.BTV0800.DigiCam</fesaName>
+    <camName>BTV0800</camName>
+</camera>
+<camera>
+    <port>9</port>
+    <fesaName>CA.BTV0805.DigiCam</fesaName>
+    <camName>BTV0805</camName>
+</camera>
+<camera>
+    <port>10</port>
+    <fesaName>CA.BTV0810.DigiCam</fesaName>
+    <camName>BTV0810</camName>
+</camera>
+<camera>
+    <port>11</port>
+    <fesaName>CA.BTV0910.DigiCam</fesaName>
+    <camName>BTV0910</camName>
+</camera>
+<camera>
+    <port>12</port>
+    <fesaName>CA.BTV0930.DigiCam</fesaName>
+    <camName>BTV0930</camName>
+</camera>
+<camera>
+    <port>17</port>
+    <fesaName>Air.TS.DigiCam1</fesaName>
+    <camName>AIR-TS 1</camName>
+</camera>
+<camera>
+    <port>18</port>
+    <fesaName>Air.TS.DigiCam2</fesaName>
+    <camName>AIR-TS 2</camName>
+</camera>
+<camera>
+    <port>19</port>
+    <fesaName>Air.TS.DigiCam3</fesaName>
+    <camName>AIR-TS 3</camName>
+</camera>
+<camera>
+    <port>20</port>
+    <fesaName>Air.TS.DigiCam4</fesaName>
+    <camName>AIR-TS 4</camName>
+</camera>
+<camera>
+    <port>21</port>
+    <fesaName>Vac.TS.DigiCam1</fesaName>
+    <camName>VAC-TS 1</camName>
+</camera>
+<camera>
+    <port>22</port>
+    <fesaName>EOS.DigiCam1</fesaName>
+    <camName>EOS1</camName>
+</camera>
+<camera>
+    <port>23</port>
+    <fesaName>EOS.DigiCam2</fesaName>
+    <camName>EOS2</camName>
+</camera>
+<camera>
+    <port>24</port>
+    <fesaName>VESPER.DigiCam</fesaName>
+    <camName>VESPER</camName>
+</camera>
+</setupInfos>
