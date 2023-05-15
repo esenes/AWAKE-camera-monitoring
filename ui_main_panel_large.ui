@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1885</width>
+    <height>789</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color: black</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QLabel" name="title_label">
+    <property name="geometry">
+     <rect>
+      <x>80</x>
+      <y>20</y>
+      <width>1221</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>38</pointsize>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: white
+</string>
+    </property>
+    <property name="text">
+     <string>SYSTEM NAME</string>
+    </property>
+    <property name="alignment">
+     <set>Qt::AlignLeading|Qt::AlignLeft|Qt::AlignVCenter</set>
+    </property>
+   </widget>
+   <widget class="Ui_label_widget_large" name="w1" native="true">
+    <property name="geometry">
+     <rect>
+      <x>30</x>
+      <y>90</y>
+      <width>230</width>
+      <height>210</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QLabel" name="serverName_label">
+    <property name="geometry">
+     <rect>
+      <x>1630</x>
+      <y>20</y>
+      <width>211</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>14</pointsize>
+      <weight>75</weight>
+      <bold>true</bold>
+      <kerning>true</kerning>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: white
+</string>
+    </property>
+    <property name="text">
+     <string>server name</string>
+    </property>
+    <property name="alignment">
+     <set>Qt::AlignCenter</set>
+    </property>
+   </widget>
+   <widget class="Ui_label_widget_large" name="w2" native="true">
+    <property name="geometry">
+     <rect>
+      <x>260</x>
+      <y>90</y>
+      <width>230</width>
+      <height>210</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="Ui_label_widget_large" name="w4" native="true">
+    <property name="geometry">
+     <rect>
+      <x>720</x>
+      <y>90</y>
+      <width>230</width>
+      <height>210</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="Ui_label_widget_large" name="w3" native="true">
+    <property name="geometry">
+     <rect>
+      <x>490</x>
+      <y>90</y>
+      <width>230</width>
+      <height>210</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="Ui_label_widget_large" name="w6" native="true">
+    <property name="geometry">
+     <rect>
+      <x>1180</x>
+      <y>90</y>
+      <width>230</width>
+      <height>210</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="Ui_label_widget_large" name="w8" native="true">
+    <property name="geometry">
+     <rect>
+      <x>1640</x>
+      <y>90</y>
+      <width>230</width>
+      <height>210</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="Ui_label_widget_large" name="w7" native="true">
+    <property name="geometry">
+     <rect>
+      <x>1410</x>
+      <y>90</y>
+      <width>230</width>
+      <height>210</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="Ui_label_widget_large" name="w5" native="true">
+    <property name="geometry">
+     <rect>
+      <x>950</x>
+      <y>90</y>
+      <width>230</width>
+      <height>210</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="Ui_label_widget_large" name="w10" native="true">
+    <property name="geometry">
+     <rect>
+      <x>260</x>
+      <y>300</y>
+      <width>230</width>
+      <height>210</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="Ui_label_widget_large" name="w13" native="true">
+    <property name="geometry">
+     <rect>
+      <x>950</x>
+      <y>300</y>
+      <width>230</width>
+      <height>210</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="Ui_label_widget_large" name="w12" native="true">
+    <property name="geometry">
+     <rect>
+      <x>720</x>
+      <y>300</y>
+      <width>230</width>
+      <height>210</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="Ui_label_widget_large" name="w11" native="true">
+    <property name="geometry">
+     <rect>
+      <x>490</x>
+      <y>300</y>
+      <width>230</width>
+      <height>210</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="Ui_label_widget_large" name="w14" native="true">
+    <property name="geometry">
+     <rect>
+      <x>1180</x>
+      <y>300</y>
+      <width>230</width>
+      <height>210</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="Ui_label_widget_large" name="w15" native="true">
+    <property name="geometry">
+     <rect>
+      <x>1410</x>
+      <y>300</y>
+      <width>230</width>
+      <height>210</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="Ui_label_widget_large" name="w9" native="true">
+    <property name="geometry">
+     <rect>
+      <x>30</x>
+      <y>300</y>
+      <width>230</width>
+      <height>210</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="Ui_label_widget_large" name="w16" native="true">
+    <property name="geometry">
+     <rect>
+      <x>1640</x>
+      <y>300</y>
+      <width>230</width>
+      <height>210</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="Ui_label_widget_large" name="w21" native="true">
+    <property name="geometry">
+     <rect>
+      <x>950</x>
+      <y>510</y>
+      <width>230</width>
+      <height>210</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="Ui_label_widget_large" name="w22" native="true">
+    <property name="geometry">
+     <rect>
+      <x>1180</x>
+      <y>510</y>
+      <width>230</width>
+      <height>210</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="Ui_label_widget_large" name="w19" native="true">
+    <property name="geometry">
+     <rect>
+      <x>490</x>
+      <y>510</y>
+      <width>230</width>
+      <height>210</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="Ui_label_widget_large" name="w20" native="true">
+    <property name="geometry">
+     <rect>
+      <x>720</x>
+      <y>510</y>
+      <width>230</width>
+      <height>210</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="Ui_label_widget_large" name="w17" native="true">
+    <property name="geometry">
+     <rect>
+      <x>30</x>
+      <y>510</y>
+      <width>230</width>
+      <height>210</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="Ui_label_widget_large" name="w23" native="true">
+    <property name="geometry">
+     <rect>
+      <x>1410</x>
+      <y>510</y>
+      <width>230</width>
+      <height>210</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="Ui_label_widget_large" name="w18" native="true">
+    <property name="geometry">
+     <rect>
+      <x>260</x>
+      <y>510</y>
+      <width>230</width>
+      <height>210</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="Ui_label_widget_large" name="w24" native="true">
+    <property name="geometry">
+     <rect>
+      <x>1640</x>
+      <y>510</y>
+      <width>230</width>
+      <height>210</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QLabel" name="messagebox_label">
+    <property name="geometry">
+     <rect>
+      <x>30</x>
+      <y>730</y>
+      <width>1841</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>FreeSans</family>
+      <pointsize>16</pointsize>
+      <weight>75</weight>
+      <bold>true</bold>
+      <kerning>true</kerning>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: white
+</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="alignment">
+     <set>Qt::AlignLeading|Qt::AlignLeft|Qt::AlignVCenter</set>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1885</width>
+     <height>25</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <customwidgets>
+  <customwidget>
+   <class>Ui_label_widget_large</class>
+   <extends>QWidget</extends>
+   <header>ui_label_widget_large</header>
+   <container>1</container>
+  </customwidget>
+ </customwidgets>
+ <resources/>
+ <connections/>
+</ui>
